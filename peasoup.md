@@ -3,5 +3,5 @@
 - Onions
 - Potato
 # Instructions
-- put peas into pan
+- shell the peas
 
